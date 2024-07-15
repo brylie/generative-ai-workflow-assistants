@@ -5,6 +5,7 @@
 		8000
 	],
 	"postCreateCommand": "pip3 install --user -r app/requirements.txt",
+	"postStartCommand": "git config --global --add safe.directory ${containerWorkspaceFolder}",
 	"customizations": {
 		"extensions": [
 			"ms-python.python",
