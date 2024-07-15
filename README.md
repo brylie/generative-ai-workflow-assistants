@@ -1,6 +1,6 @@
 # Generative AI workflow assistants
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/brylie/generative-ai-workflow-assistants?quickstart=1)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/brylie/generative-ai-workflow-assistants)
 
 Using generative AI to assist people with common workflows.
 
