@@ -13,13 +13,13 @@
 				"ms-python.debugpy",
 				"ms-python.vscode-pylance"
 			],
-			"recommendations": []
-		},
-		"settings": {
-			"editor.defaultFormatter": "ruff",
-			"editor.formatOnSave": true,
-			"python.formatting.provider": "ruff",
-			"ruff.formatOnSave": true
+			"recommendations": [],
+			"settings": {
+				"editor.defaultFormatter": "charliermarsh.ruff",
+				"editor.formatOnSave": true,
+				"python.formatting.provider": "charliermarsh.ruff",
+				"ruff.formatOnSave": true
+			}
 		}
 	}
 }
